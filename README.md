@@ -31,8 +31,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```py
-Developed by : Priyanka.A
-Register number : 212222230113
+Developed by : Dheena Darshini Karthik Dheepan
+Register number : 212223240030
 
 import numpy as np
 import math
@@ -72,8 +72,7 @@ else:
  
 ```
 # Output : 
-![280447781-c702cd34-e9b4-46de-9523-a5ee33bd577c](https://github.com/PriyankaAnnadurai/Poisson_distribution/assets/118351569/4d915f76-b588-451a-9f0e-9a98f675b4a8)
-
+![image](https://github.com/DheenaDarshini/Poisson_distribution/assets/139415929/2247d3c7-25d6-44e6-a06d-5ab7e1ce15cc)
 
 
 # Results
